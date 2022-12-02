@@ -1,0 +1,2 @@
+# veba
+KALİ LİNUX
